@@ -14,6 +14,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# edited by Mathieu D.
+
 import os
 import sys
 fileDir = os.path.dirname(os.path.realpath(__file__))
